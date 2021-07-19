@@ -21,4 +21,4 @@ The Main menu in the program provides a list of commands which fulfill the reque
 - ***show category:***  After showing a list of all categories, this command lets you choose a category to see all the todos inside this category. (Categories, in contrast to todos, are chosen by their unique name.)
 - ***add todo to category:***  This command shows the list of &quot;all todos&quot; and &quot;all categories&quot;, then you can choose a todo and then a category to put your chosen todo in.
 - ***help:***  Shows the main menu&#39;s command list. Use this where ever you are stuck :)
-- **exit:***  Terminates the program!
+- ***exit:***  Terminates the program!
