@@ -2,9 +2,9 @@
 
 ## HW3 Mobile Programming 99-2 SUT
 
-### Shayan Mohammadi 98106026
-
 ### Shayan Talaei 98109548
+
+### Shayan Mohammadi 98106026
 
 This application was written and tested in [OnlineGBD](https://www.onlinegdb.com/).  
 
